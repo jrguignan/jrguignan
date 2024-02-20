@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://github.com/jrguignan/jrguignan/blob/main/images/compumundohipermegared.gif"  height=200>
 
-# 👋 &nbsp; Hola! Soy José R. Guignan.
+# 👋 &nbsp; Hola! Soy José R. Guignan
 
 ## 👨🏻‍💻 &nbsp;Sobre mi 
 
