@@ -11,6 +11,8 @@
 - 🎓 &nbsp; Estudié física en pregrado y actualmente estoy estudiando en Soy Henry la carrera de Ciencia de Datos.
 - 💼 &nbsp; Estoy abierto a oportunidades laborales relacionadas con Machine Learning y Análisis de Datos.
 - 🌱 &nbsp; Me encantaría usar las herramientas de Machine Learning para generar un impacto positivo en las personas.
+- ⚽ &nbsp; Practico calistenia 💪,  espero seguir mejorando en ella.
+- 📚 &nbsp; Me gusta leer sobre todo temas de:  ✔️crecimiento personal, 👻  fenómeno paranormal , :octocat: ovnis y 🌀 expansión de la conciencia.
 
 ## 🛠 &nbsp;Habilidades Técnicas
 - 💻 &nbsp;
