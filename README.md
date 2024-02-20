@@ -55,7 +55,6 @@
 ## Contacto
 
 - 💬 Sientete libre de escribirme para hacer alguna colaboración, o si tienes duda sobre alguno de mis repositorios.
-<br>
 - 📧 Email: joserguignan@gmail.com
 - 💼 LinkedIn: [https://www.linkedin.com/in/jrguignan/](https://www.linkedin.com/in/jrguignan/)
 
