@@ -60,4 +60,4 @@
 - 📧 Email: joserguignan@gmail.com
 - 💼 LinkedIn: [https://www.linkedin.com/in/jrguignan/](https://www.linkedin.com/in/jrguignan/)
 
-Gracias por visitar mi perfil...! 😊
+Gracias por visitar mi perfil...! 😃
