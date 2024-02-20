@@ -1,9 +1,9 @@
 
 
 <p align="center">
-<img src="https://github.com/jrguignan/jrguignan/blob/main/images/compumundohipermegared.gif"  height=250>
+<img src="https://github.com/jrguignan/jrguignan/blob/main/images/compumundohipermegared.gif"  height=200>
 
-# 👋 &nbsp; Hola! Soy José Guignan.
+# 👋 &nbsp; Hola! Soy José R. Guignan.
 
 ## 👨🏻‍💻 &nbsp;Sobre mi 
 
@@ -13,12 +13,12 @@
 - 🌱 &nbsp; Me encantaría usar las herramientas de Machine Learning para generar un impacto positivo en las personas.
 
 ## 🛠 &nbsp;Habilidades Técnicas
-
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  ![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=MATLAB)
 - 📚 &nbsp;
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
   ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
@@ -50,14 +50,10 @@
   ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
   ![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=render)
   
-
-
-
 ## Contacto
 
-- 💬 Sientete libre de escribirme para hacer alguna colaboración, o aclarte alguna duda sobre mis repositorios.
+- 💬 Sientete libre de escribirme para hacer alguna colaboración, o si tienes duda sobre alguno de mis repositorios.
 <br>
-
 - 📧 Email: [joserguignan@gmail.com](mailto:joserguignan@gmail.com)
 
 - 💼 LinkedIn: [https://www.linkedin.com/in/jrguignan/](https://www.linkedin.com/in/jrguignan/)
