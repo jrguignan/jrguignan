@@ -1,6 +1,7 @@
 # 👋 &nbsp; Hola! Soy José Guignan.
 
-<img align="center" width="500" height="250" src="https://github.com/jrguignan/jrguignan/blob/main/images/compumundohipermegared.gif">
+<p align="center">
+<img src="https://github.com/jrguignan/jrguignan/blob/main/images/compumundohipermegared.gif"  height=300>
 
 ## 👨🏻‍💻 &nbsp;Sobre mi 
 
