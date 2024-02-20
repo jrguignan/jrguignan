@@ -10,7 +10,7 @@
 - ❤️ &nbsp; Me gustá investigar a fondo de las cosas, hasta entenderlas.
 - 🎓 &nbsp; Estudié física en pregrado y actualmente estoy estudiando en Soy Henry la carrera de Ciencia de Datos.
 - 💼 &nbsp; Estoy abierto a oportunidades laborales relacionadas con Machine Learning y Análisis de Datos.
-- 🌱 &nbsp; Me encantaría usar las herramientas de Machine Learning para generar un impacto positivo e las personas.
+- 🌱 &nbsp; Me encantaría usar las herramientas de Machine Learning para generar un impacto positivo en las personas.
 
 ## 🛠 &nbsp;Habilidades Técnicas
 
@@ -57,7 +57,9 @@
 
 - 💬 Sientete libre de escribirme para hacer alguna colaboración, o aclarte alguna duda sobre mis repositorios.
 <br>
+
 - 📧 Email: [joserguignan@gmail.com](mailto:joserguignan@gmail.com)
+
 - 💼 LinkedIn: [https://www.linkedin.com/in/jrguignan/](https://www.linkedin.com/in/jrguignan/)
 
 Gracias por visitar mi perfil...! 😊
