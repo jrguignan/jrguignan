@@ -19,6 +19,8 @@
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   ![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=MATLAB)
+  ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
 - 📚 &nbsp;
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
   ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
