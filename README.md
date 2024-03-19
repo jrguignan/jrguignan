@@ -56,19 +56,7 @@
 - ☁️ &nbsp;
   ![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=render)
   ![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit)
-  
-### 📊 Github Stats
-<p align="center">
-<br/>
-
-<a href="[https://github.com/pedrofranke](https://github.com/jrguignan)">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrguignan" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrguignan" />
-</a>
-
-<br/>
-</p>
-  
+    
 ## Contacto
 
 - 💬 Sientete libre de escribirme para hacer alguna colaboración, o si tienes duda sobre alguno de mis repositorios.
