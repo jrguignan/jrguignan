@@ -13,7 +13,7 @@
 ## 👨🏻‍💻 &nbsp;Sobre mi 
 
 - ❤️ &nbsp; Me gustá investigar a fondo de las cosas, hasta entenderlas.
-- 🎓 &nbsp; Estudié física en pregrado y hace poco terminé la carreta de  ciencia de datos en [Soy Henry](https://www.soyhenry.com/).
+- 🎓 &nbsp; Estudié física en pregrado y recientemente terminé la carreta de  ciencia de datos en [Soy Henry](https://www.soyhenry.com/).
 - 💼 &nbsp; Estoy abierto a oportunidades laborales relacionadas con Machine Learning y Análisis de Datos.
 - 🌱 &nbsp; Me encantaría usar las herramientas de Machine Learning para generar un impacto positivo en las personas.
 - ⚽ &nbsp; Practico calistenia y espero seguir mejorando en ella.
