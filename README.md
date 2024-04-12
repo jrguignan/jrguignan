@@ -40,7 +40,7 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
   ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=MongoDB)
-  🔧 &nbsp;
+- 🔧 &nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Apache Hadoop](https://img.shields.io/badge/-Apache%20Hadoop-333333?style=flat&logo=apache-hadoop)
   ![Apache Hive](https://img.shields.io/badge/-Apache%20Hive-333333?style=flat&logo=apache-hive)
@@ -53,7 +53,7 @@
   ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
   ![colab](https://img.shields.io/badge/-colab-333333?style=flat&logo=colabbadge)
   ![MYSQL Workbench](https://img.shields.io/badge/-colab-333333?style=flat&logo=colabbadge)
-  ![MongoDB Compass](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![MongoDB Compass](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=Mongo-DB&logoColor=007ACC)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
 - ☁️ &nbsp;
