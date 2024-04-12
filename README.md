@@ -53,7 +53,7 @@
   ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
   ![colab](https://img.shields.io/badge/-colab-333333?style=flat&logo=colabbadge)
   ![MYSQL_Workbench](https://img.shields.io/badge/-MYSQL_Workbench-333333?style=flat&logo=MYSQL_Workbench)
-  ![MongoDB Compass](https://img.shields.io/badge/-MongoDB-Compass-333333?style=flat&logo=MongoDB-Compass&logoColor=007ACC)
+  ![MongoDB-Compass](https://img.shields.io/badge/-MongoDB-Compass-333333?style=flat&logo=MongoDB-Compass)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
 - ☁️ &nbsp;
