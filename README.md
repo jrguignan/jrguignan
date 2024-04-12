@@ -34,7 +34,7 @@
   ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
   ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)
-  ![Scikit_learn](https://img.shields.io/badge/-Scikitlearn-333333?style=flat&logo=scikitlearn)
+  ![Scikit_learn](https://img.shields.io/badge/-Scikit_learn-333333?style=flat&logo=scikit_learn)
   ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
