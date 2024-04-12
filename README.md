@@ -12,8 +12,8 @@
 
 ## 👨🏻‍💻 &nbsp;Sobre mi 
 
-- ❤️ &nbsp; Me gustá investigar a fondo de las cosas, hasta entenderlas.
-- 🎓 &nbsp; Estudié física en pregrado y recientemente terminé la carreta de  ciencia de datos en [Soy Henry](https://www.soyhenry.com/).
+- ❤️ &nbsp; Me gustá investigar a fondo, hasta dar con el mínimo detalle.
+- 🎓 &nbsp; Estudié *física* en pregrado y recientemente terminé la carrera de  *data science* en [Soy Henry](https://www.soyhenry.com/).
 - 💼 &nbsp; Estoy abierto a oportunidades laborales relacionadas con Machine Learning y Análisis de Datos.
 - 🌱 &nbsp; Me encantaría usar las herramientas de Machine Learning para generar un impacto positivo en las personas.
 - ⚽ &nbsp; Practico calistenia y espero seguir mejorando en ella.
@@ -39,6 +39,7 @@
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
   ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 - 🔧 &nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Apache Hadoop](https://img.shields.io/badge/-Apache%20Hadoop-333333?style=flat&logo=apache-hadoop)
@@ -59,7 +60,7 @@
     
 ## Contacto
 
-- 💬 Sientete libre de escribirme para hacer alguna colaboración, o si tienes duda sobre alguno de mis repositorios.
+- 💬 Sientete libre de escribirme para propuesta laboral o si tienes duda sobre alguno de mis repositorios.
 - 📧 Email: joserguignan@gmail.com
 - 💼 LinkedIn: [https://www.linkedin.com/in/jrguignan/](https://www.linkedin.com/in/jrguignan/)
 
