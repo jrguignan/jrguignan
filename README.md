@@ -14,7 +14,7 @@
 
 - ❤️ &nbsp; Me gustá investigar a fondo, hasta dar con el mínimo detalle.
 - 🎓 &nbsp; Estudié *física* en pregrado y recientemente terminé la carrera de  *data science* en [Soy Henry](https://www.soyhenry.com/).
-- 💼 &nbsp; Estoy abierto a oportunidades laborales relacionadas con Machine Learning y Análisis de Datos.
+- 💼 &nbsp; Estoy abierto a oportunidades laborales relacionadas con Machine Learning e Ingenería de Datos.
 - 🌱 &nbsp; Me encantaría usar las herramientas de Machine Learning para generar un impacto positivo en las personas.
 - ⚽ &nbsp; Practico calistenia y espero seguir mejorando en ella.
 - 📚 &nbsp; Me gusta leer sobre todo temas de:  ✔️crecimiento personal, 👻  fenómeno paranormal , :flying_saucer: ovnis y 🌀 expansión de la conciencia.
@@ -36,6 +36,7 @@
   ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)
   ![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-333333?style=flat&logo=scikitlearn)
   ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+  ![Ultraytics](https://img.shields.io/badge/-Ultraytics-333333?style=flat&logo=Ultraytics)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
   ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)
