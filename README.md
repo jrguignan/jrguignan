@@ -36,7 +36,7 @@
   ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)
   ![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-333333?style=flat&logo=scikitlearn)
   ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
-  ![Ultraytics](https://img.shields.io/badge/-Ultraytics-333333?style=flat&logo=Ultraytics)
+  ![Ultralytics](https://img.shields.io/badge/-Ultralytics-333333?style=flat&logo=Ultralytics)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
   ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)
