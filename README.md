@@ -63,7 +63,7 @@
     
 ## Contacto
 
-- 💬 Sientete libre de escribirme para propuesta laboral o si tienes duda sobre alguno de mis repositorios.
+- 💬 Sientete libre de escribirme para propuestas laborales o si tienes duda sobre mis repositorios.
 - 📧 Email: joserguignan@gmail.com
 - 💼 LinkedIn: [https://www.linkedin.com/in/jrguignan/](https://www.linkedin.com/in/jrguignan/)
 
