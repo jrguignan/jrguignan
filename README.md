@@ -14,7 +14,7 @@
 
 - ❤️ &nbsp; Me gustá investigar a fondo, hasta dar con el mínimo detalle.
 - 🎓 &nbsp; Estudié *física* en pregrado y recientemente terminé la carrera de  *data science* en [Soy Henry](https://www.soyhenry.com/).
-- 💼 &nbsp; Estoy abierto a oportunidades laborales relacionadas con Machine Learning e Ingenería de Datos.
+- 💼 &nbsp; Estoy abierto a oportunidades laborales relacionadas con Machine Learning y Data Science.
 - 🌱 &nbsp; Me encantaría usar las herramientas de Machine Learning para generar un impacto positivo en las personas.
 - ⚽ &nbsp; Practico calistenia y espero seguir mejorando en ella.
 - 📚 &nbsp; Me gusta leer sobre todo temas de:  ✔️crecimiento personal, 👻  fenómeno paranormal , :flying_saucer: ovnis y 🌀 expansión de la conciencia.
@@ -29,6 +29,7 @@
   ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
 - 📚 &nbsp;
+  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
   ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
   ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
   ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
