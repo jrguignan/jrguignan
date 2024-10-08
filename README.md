@@ -67,5 +67,6 @@
 - 💬 Sientete libre de escribirme para propuestas laborales o si tienes duda sobre mis repositorios.
 - 📧 Email: joserguignan@gmail.com
 - 💼 LinkedIn: [https://www.linkedin.com/in/jrguignan/](https://www.linkedin.com/in/jrguignan/)
+- 📂 Portafolio: [https://jrguignan.github.io/](https://jrguignan.github.io/)
 
 Gracias por visitar mi perfil...! 😃
